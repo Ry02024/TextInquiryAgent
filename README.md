@@ -22,7 +22,7 @@ TextInquiryAgentのライブデモはこちらからアクセスできます: [T
 - パフォーマンスの最適化
 
 ## 機能詳細
-技術者向けの詳細な機能説明はこちらのドキュメントをご覧ください: [機能要件 README](FUNCTIONAL_README.md)
+技術者向けの詳細な機能説明はこちらのドキュメントをご覧ください: [機能要件 README](docs/FUNCTIONAL_README.md)
 
 ## 課題と懸念事項
 プロジェクトの既知の問題や将来の改善計画については、こちらのドキュメントをご覧ください: [ISSUES.md](docs/ISSUES.md)
