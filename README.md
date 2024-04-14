@@ -3,7 +3,7 @@
 TextInquiryAgentは、文書データベースから関連情報を検索してユーザーの質問に答えるStreamlitベースのWebアプリケーションです。このアプリケーションは、簡単にアクセスできるウェブインターフェースを通じて、質問に対する回答を文書から生成し、専門家でないユーザーにも理解しやすい形で情報を提供します。
 
 ## デモ
-TextInquiryAgentのライブデモはこちらからアクセスできます: [TextInquiryAgent Demo](https://your-deployed-url.com)
+TextInquiryAgentのライブデモはこちらからアクセスできます: [TextInquiryAgent Demo](https://textinquiryagent-ryo202401.streamlit.app/)
 
 ## 特徴
 - **文書からの情報検索**: 複数の文書から最も関連性の高い情報を抽出します。
