@@ -41,5 +41,5 @@ TextInquiryAgentのデモはこちらからアクセスできます: [TextInquir
 
 ## 謝辞
 - このプロジェクトのインスピレーションとなったすべてのオープンソースプロジェクトに感謝します。
-- [Maki@Sunwood.ai.labs(2024.4)](https://note.com/haru_maki_ch/n/nad8a6c1824bf)
+- [Maki@Sunwood.ai.labs(2024.4), トカマクラブで学ぶGeminiAPIのEmbeddingに関する解説記事, note](https://note.com/haru_maki_ch/n/nad8a6c1824bf)
 
