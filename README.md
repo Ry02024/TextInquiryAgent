@@ -30,6 +30,9 @@ TextInquiryAgentのデモはこちらからアクセスできます: [TextInquir
 ## 使用方法
 デプロイされたアプリケーションにアクセスし、指示に従ってAPIキーを入力後、質問を投稿してください。回答は自動的に生成され、画面に表示されます。
 
+### APIキーの取得
+Ryo(2024.4), SocialResourceFinder, GitHubの[README.md, 2-1.APIキーの取得](https://github.com/Ry02024/SocialResourceFinder/blob/main/README.md)をご参照ください。
+
 ## ライセンス
 このプロジェクトは [MIT License](LICENSE) の下で公開されています。
 
